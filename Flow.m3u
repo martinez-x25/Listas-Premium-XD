@@ -1,0 +1,287 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" tvg-id="TelefeBuenosAires.ar" group-title="Canales de Argentina",Telefe (Buenos Aires)
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" tvg-id="TelefeInternacional.ar@SD" group-title="Canales de Argentina",Telefe Internacional
+http://190.108.83.69:8000/play/a08l/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" tvg-id="ElTrece.ar@SD" group-title="Canales de Argentina",El Trece
+http://190.108.83.69:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Canales de Argentina",El Trece (Opción 1)
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Canales de Argentina",El Trece Internacional
+http://181.78.88.113:9800/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tv-publica-ar.png" group-title="Canales de Argentina",Canal 7 (TV Pública)
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/tvpublica.playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/a24-ar.png?raw=true" group-title="Canales de Argentina",A24
+#EXTVLCOPT:http-reconnect=true
+http://45.134.141.161:2200/ARG/A24/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-tv-ar.png" group-title="Canales de Argentina",América TV HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090609&extension=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-tv-ar.png" group-title="Canales de Argentina",América TV (Opción 1)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/a2909ca32b47b29df8a65d0675e330b66313c7c9/logos/noticias/CHc5n.png?raw=true" group-title="Canales de Argentina",C5N
+http://45.134.141.161:2200/ARG/C5N/index.m3u8
+#EXTINF:-1 group-title="Canales de Argentina",Canal 9 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090563&extension=m3u8
+#EXTINF:-1 group-title="Canales de Argentina",12 HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090559&extension=m3u8
+#EXTINF:-1 group-title="Canales de Argentina",LN+ HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090574&extension=m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tn-todo-noticias-ar.png?raw=true" group-title="Canales de Argentina",TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 group-title="Canales de Argentina",Ciudad Magazine HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090579&extension=m3u8
+#EXTINF:-1 group-title="Canales de Argentina",CineAr HD
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090580&extension=m3u8
+#EXTINF:-1 group-title="Canales de Argentina",Volver
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090568&extension=m3u8
+#EXTINF:-1 tvg-id="5tv.ar@SD" group-title="Canales del Interior",5TV Corrientes [Not 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Gualeguay.ar@SD" group-title="Canales del Interior",Canal 2 Gualeguay
+https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Misiones.ar@SD" group-title="Canales del Interior",Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-id="Canal3LaPampa.ar@SD" group-title="Canales del Interior",Canal 3 La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3LasHeras.ar@SD" group-title="Canales del Interior",Canal 3 Las Heras
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" group-title="Canales del Interior",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Canal4Esquel.ar@SD" group-title="Canales del Interior",Canal 4 Esquel
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar@SD" group-title="Canales del Interior",Canal 4 Jujuy
+https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" group-title="Canales del Interior",Canal 4 Posadas
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" group-title="Canales del Interior",Canal 4 San Juan
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4VillaDolores.ar@SD" group-title="Canales del Interior",Canal 4 Villa Dolores
+https://stmvideo3.livecastv.com/canal4vd/canal4vd/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5DelPueblo.ar@SD" group-title="Canales del Interior",Canal 5 Del Pueblo [Not 24/7]
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5SantaFe.ar@SD" group-title="Canales del Interior",Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6Posadas.ar@SD" group-title="Canales del Interior",Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar@SD" group-title="Canales del Interior",Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TV.ar@SD" group-title="Canales del Interior",Canal 7 Santiago del Estero
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8MardelPlata.ar@SD" group-title="Canales del Interior",Canal 8 Mar del Plata [Not 24/7]
+https://canal8mdq.unpocodeawita.workers.dev/
+#EXTINF:-1 tvg-id="Canal9Link.ar@SD" group-title="Canales del Interior",Canal 9 Link
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Resistencia.ar@SD" group-title="Canales del Interior",Canal 9 Resistencia
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12Web.ar@SD" group-title="Canales del Interior",Canal 12 Web
+https://nd106.republicaservers.com:4433/c7827.mp4
+#EXTINF:-1 tvg-id="Canal12VenadoTuerto.ar@SD" group-title="Canales del Interior",Canal 12 Venado Tuerto (1080i)
+https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
+#EXTINF:-1 tvg-id="Canal13Jujuy.ar@SD" group-title="Canales del Interior",Canal 13 Jujuy TV
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" group-title="Canales del Interior",Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21TV.ar@SD" group-title="Canales del Interior",Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal50Morteros.ar@SD" group-title="Canales del Interior",Canal 50 Morteros
+https://online.coopmorteros.coop/canal50/vivo.m3u8
+#EXTINF:-1 tvg-id="Canal79LaCosta.ar@SD" group-title="Canales del Interior",Canal 79 La Costa (240p)
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+#EXTINF:-1 tvg-id="Canal79MardelPlata.ar@SD" group-title="Canales del Interior",Canal 79 Mar del Plata
+https://streamconex.com:2000/hls/mardelplata/mardelplata.m3u8
+#EXTINF:-1 tvg-id="Canal79Puan.ar@SD" group-title="Canales del Interior",Canal 79 Puan (240p)
+https://streamconex.com:19360/puan/puan.m3u8
+#EXTINF:-1 tvg-id="Canal79VillaMaza.ar@SD" group-title="Canales del Interior",Canal 79 Villa Maza (1080p)
+https://streamconex.com:19360/villamaza/villamaza.m3u8
+#EXTINF:-1 tvg-id="Canal79SantaClaradelMar.ar@SD" group-title="Canales del Interior",Canal 79 Santa Clara del Mar (240p)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+#EXTINF:-1 tvg-id="CorrientesTV.ar@SD" group-title="Canales del Interior",Corrientes TV
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosBahia.ar" group-title="Canales del Interior",Somos Bahía
+http://177.53.153.207:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="CatamarcaTV.ar" group-title="Canales del Interior",Catamarca TV
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar" group-title="Canales del Interior",Aire de Santa Fe
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1 tvg-id="Canal2MarDelPlata.ar" group-title="Canales del Interior",Canal 2 Mar Del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+#EXTINF:-1 tvg-id="Canal4Teleaire.ar" group-title="Canales del Interior",Canal 4 Teleaire
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5TVChepes.ar" group-title="Canales del Interior",Canal 5 TV Chepes
+https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" group-title="Canales del Interior",Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TV2.ar" group-title="Canales del Interior",Canal 7 TV
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8SanJuan.ar" group-title="Canales del Interior",Canal 8 San Juan
+https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal99Miramar.ar" group-title="Canales del Interior",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
+#EXTINF:-1 tvg-id="CanalProvincial.ar" group-title="Canales del Interior",Canal Provincial
+https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="FolcloreandoTV.ar" group-title="Canales del Interior",Folcloreando TV
+https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" group-title="Canales del Interior",Canal 20 Villa Maria
+https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8?hls_ctx=m05285m1
+#EXTINF:-1 tvg-id="ElTresTV.ar" tvg-logo="https://tvlogo.org/argentina/eltres-tv-ar.png" group-title="Canales del Interior",El Tres TV
+https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS.ar" tvg-logo="https://rtsmedios.com.ar/wp-content/uploads/2025/01/logo_rtsw.png" group-title="Canales del Interior",RTS
+https://cdn5x.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolidaria.ar@SD" group-title="Religiosos",TV Solidaria
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 group-title="Religiosos",Enlace
+https://livecdnusa.enlace.plus/enlace/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/ewtn-us.png" group-title="Religiosos",EWTN
+http://38.210.3.64:8090/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="Religiosos",Canal La Voz de La Fe
+http://45.179.152.42:8000/play/a01y
+#EXTINF:-1 group-title="Religiosos",Cristovisión
+http://181.78.8.199:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/daystar-us.png" group-title="Religiosos",Daystar
+http://38.224.231.176:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Paka Paka
+https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/pkpk_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" tvg-id="CartoonNetwork.lat" group-title="Infantiles",Cartoon Network HD
+http://181.78.61.202:8000/play/a019
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png" tvg-id="Cartoonito.lat" group-title="Infantiles",Cartoonito
+http://181.78.61.202:8000/play/a01b
+#EXTINF:-1 group-title="Infantiles",Baby First
+http://38.225.117.1:9005/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Baby TV
+http://45.5.57.58:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Plim Plim TV
+http://192.141.98.91:8000/play/a1sn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="Infantiles",Disney Channel HD
+http://181.78.88.113:9800/play/a0br/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="Infantiles",Nickelodeon HD
+http://181.78.88.113:9800/play/a0bw/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Infantiles",Nick Jr.
+http://181.78.88.113:9800/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-junior-us.png" group-title="Infantiles",Disney Junior
+http://45.181.120.147:9800/play/038/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Discovery Kids HD
+http://190.119.143.218:8000/play/a0l3/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN Premium
+http://181.232.188.21:8282/play/a05e/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/250px-ESPN_wordmark.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN (Feed ARG)
+http://177.53.152.117:8000/play/a0ha/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 2 (SUR)
+http://170.247.204.9:8000/play/a04g/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/250px-ESPN3_Logo.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 3 HD (Feed)
+http://45.182.22.53:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/250px-ESPN_4_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 4 HD (Feed)
+http://45.182.22.53:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 5 HD (Feed)
+http://45.182.22.53:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1920px-ESPN_6_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",ESPN 6 (Feed)
+http://45.182.22.53:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/250px-ESPN_5_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",ESPN 7 HD
+http://45.181.120.65:9087/play/051/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports DGO/ARG
+http://38.252.208.34:40000/play/a0at
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports DECO/ARG
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports ARG
+http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports 2
+http://199.188.103.176:8000/play/a045/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/DSports_logo_2022.png/330px-DSports_logo_2022.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",DSports +
+http://38.210.3.64:8090/play/a0p6/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/330px-TyC_Sports_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TyC Sports (Feed ARG/PY)
+http://181.232.188.21:8282/play/a05h/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/330px-TyC_Sports_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="Deportes",TyC Sports (Opción 1)
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090606&extension=m3u8
+#EXTINF:-1 tvg-id="EVENTOS2" tvg-logo="https://i.postimg.cc/BZktmf4z/logo-tigo-contenedor-bc3b14a9a7.png" group-title="Deportes",EVENTOS 2 HD
+http://181.232.188.21:8282/play/a047
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.postimg.cc/BZktmf4z/logo-tigo-contenedor-bc3b14a9a7.png" group-title="Deportes",EVENTOS HD
+http://190.128.159.122:4000/play/a03k
+#EXTINF:-1 tvg-id="EVENTOSXTRA" tvg-logo="https://i.postimg.cc/BZktmf4z/logo-tigo-contenedor-bc3b14a9a7.png" group-title="Deportes",EVENTOS XTRA HD
+http://190.128.159.122:4000/play/a03c
+#EXTINF:-1 group-title="Deportes",TNT Sports (Feed ARG)
+http://192.141.98.91:8000/play/a1ya/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium ARG
+http://nexusconnects.org/play/live.php?mac=00:1A:79:A2:B8:2E&stream=1090608&extension=m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 1
+https://emitiendoenvivo.com/lpf/1.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 2
+https://emitiendoenvivo.com/lpf/2.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 3
+https://emitiendoenvivo.com/lpf/3.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 4
+https://emitiendoenvivo.com/lpf/4.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 5
+https://emitiendoenvivo.com/lpf/5.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 6
+https://emitiendoenvivo.com/lpf/6.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 7
+https://emitiendoenvivo.com/lpf/7.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 8
+https://emitiendoenvivo.com/lpf/8.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 9
+https://emitiendoenvivo.com/lpf/9.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 10
+https://emitiendoenvivo.com/lpf/10.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 11
+https://emitiendoenvivo.com/lpf/11.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 12
+https://emitiendoenvivo.com/lpf/12.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 13
+https://emitiendoenvivo.com/lpf/13.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 14
+https://emitiendoenvivo.com/lpf/14.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 15
+https://emitiendoenvivo.com/lpf/15.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 16
+https://emitiendoenvivo.com/lpf/16.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 17
+https://emitiendoenvivo.com/lpf/17.m3u8
+#EXTINF:-1 group-title="LPF Play",LPF Play 18
+https://emitiendoenvivo.com/lpf/18.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Pack HBO",HBO
+http://45.186.254.75:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-plus-us.png" group-title="Pack HBO",HBO +
+http://45.181.120.65:9087/play/a0qc/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="Pack HBO",HBO 2
+http://192.141.98.91:8000/play/a1xu/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="Pack HBO",HBO Family
+http://45.186.254.75:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-plus-us.png" group-title="Pack HBO",HBO Plus
+http://45.186.254.75:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-pop-us.png" group-title="Pack HBO",HBO Pop
+http://45.186.254.75:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="Pack HBO",HBO Signature
+http://45.186.254.75:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="Pack HBO",HBO Mundi
+http://192.141.98.91:8000/play/a1tk/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-xtreme-us.png" group-title="Pack HBO",HBO Xtreme
+http://192.141.98.91:8000/play/a1xw/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Cine y Series",AMC
+http://38.224.231.176:8000/play/a0ah/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AMC Series
+http://181.66.249.246:8000/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",AXN
+http://190.60.60.114:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cinecanal
+http://177.53.152.117:8000/play/a0et/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Cine y Series",Cinemax
+http://45.182.22.53:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",DHE
+http://177.53.153.21:8000/play/a11r/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Film & Arts HD
+http://38.224.231.176:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" group-title="Cine y Series",FX
+http://45.172.92.111:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Space
+http://38.224.231.176:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Star Channel HD
+http://45.182.22.53:8000/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="Cine y Series",TCM
+http://181.66.249.246:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="Warner.us" group-title="Cine y Series",Warner Channel HD
+http://45.181.120.65:9087/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="Cine y Series",Warner HD
+http://186.33.57.100:8000/play/a1ym/index.m3u8
+#EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Cine y Series",Distrito Comedia (MEX)
+http://181.78.21.38:8000/play/a08c/index.m3u8
