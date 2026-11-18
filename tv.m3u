@@ -1,0 +1,218 @@
+#EXTM3U  url-tvg="https://jarap.github.io/iptv-epg-argentina/epg.xml.gz, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/epg.xml, https://raw.githubusercontent.com/awiouy/webgrabplus/refs/heads/master/config/siteini.pack/International/gatotv.com.channels.xml, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-MOVIES, https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-DRAMA, https://www.open-epg.com/files/argentina1.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT%20LIFE.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT-CHANNEL.xml,https://raw.githubusercontent.com/mariotronik/Mariozap/refs/heads/main/ENT%20FAMILY.xml, https://www.open-epg.com/files/argentina2.xml, https://www.open-epg.com/files/argentina3.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/argentina5.xml, https://www.open-epg.com/files/argentina6.xml,https://www.open-epg.com/files/argentina7.xml,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml,https://www.open-epg.com/files/peru1.xml,https://www.open-epg.com/files/peru2.xml].gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"
+
+#EXTINF:0 tvg-id="VEO SANTA FE.ar" tvg-name="VEO SANTA FE" CUID="2" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345346/amrez8xvti7qszmwoorl.png" group-title="ALTERNATIVOS 2",VEO SANTA FE
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN
+https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN HD
+http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" CUID="4" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",A24
+https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
+#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
+https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
+#EXTINF:0 tvg-id="LN+.ar" tvg-name="LN+" CUID="6" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",LN+
+https://joy.nx-pc.edge-apps.net/hls/aembp-3e3j8-epcp7-9n39b.m3u8
+#EXTINF:0 tvg-id="VEO SANTO TOME.ar" tvg-name="VEO SANTO TOME" CUID="7" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345274/vvx5uc4yrteyyaa2w7mb.png" group-title="ALTERNATIVOS 2",VEO SANTO TOME
+https://joy.nx-pc.edge-apps.net/hls/dnob-bh2e8-ie61h-da129.m3u8
+#EXTINF:0 tvg-id="CANAL 9 LITORAL.ar" tvg-name="CANAL 9 LITORAL" CUID="8" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343169/jhcykgqwd6muxddjsi6b.png" group-title="ALTERNATIVOS 2",CANAL 9 LITORAL
+https://joy.nx-pc.edge-apps.net/hls/c1l19-dm128-aophc-jlo6n.m3u8
+#EXTINF:0 tvg-id="CRONICA TV.ar" tvg-name="CRONICA TV" CUID="9" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343495/lfiirtos0kntrahjmmro.png" group-title="ALTERNATIVOS 2",CRONICA TV
+https://joy.nx-pc.edge-apps.net/hls/50l1p-9en4e-g05p7-n6588.m3u8
+#EXTINF:0 tvg-id="CANAL 26.ar" tvg-name="CANAL 26" CUID="10" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343427/vhidvtxodaxhsijzvbok.png" group-title="ALTERNATIVOS 2",CANAL 26
+https://joy.nx-pc.edge-apps.net/hls/l4bk3-m0kk9-e914k-dm053.m3u8
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-name="CANAL 5 ROSARIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="ALTERNATIVOS 2",CANAL 5 ROSARIO
+http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/playlist.m3u8
+#EXTINF:0 tvg-id="RTS.ar" tvg-name="RTS" CUID="11" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1714690363/e6qrjkrewqzvavedhic1.png" group-title="ALTERNATIVOS 2",RTS
+https://joy.nx-pc.edge-apps.net/hls/8hdof-e4mmh-nbj00-biga5.m3u8
+#EXTINF:0 tvg-id="RTS.ar" tvg-name="ElTresTv.ar" CUID="11" tvg-logo="https://tvlogo.org/argentina/eltres-tv-ar.png" group-title="ALTERNATIVOS 2",El Tres TV
+https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+#EXTINF:0 tvg-id="IP NOTICAS.ar" tvg-name="Argentina 12" CUID="12" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1714690363/e6qrjkrewqzvavedhic1.png" group-title="ALTERNATIVOS 2",AR | 12
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
+#EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE SANTA FE
+https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
+#EXTINF:0 tvg-id="EL TRECE SATELITAL.ar" tvg-name="EL TRECE SATELITAL" CUID="14" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345193/qp8dffd1cyk93u2guoqx.png" group-title="ALTERNATIVOS 2",EL TRECE SATELITAL
+https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
+#EXTINF:0 tvg-id="AMERICA TV INTERIOR.ar" tvg-name="AMERICA TV INTERIOR" CUID="15" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343193/yfswhrfentg6ldidmvkd.png" group-title="ALTERNATIVOS 2",AMERICA TV INTERIOR
+https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
+#EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="ALTERNATIVOS 2",EL NUEVE INTERIOR
+https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
+#EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="ALTERNATIVOS 2",CANAL 7
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+#EXTINF:0 tvg-id="NET TV.ar" tvg-name="NET TV" CUID="18" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345761/lrd1rhajbdywgjzhslkb.png" group-title="ALTERNATIVOS 2",NET TV
+https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
+#EXTINF:0 tvg-id="URBANA PLAY.ar" tvg-name="URBANA PLAY" CUID="19" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1744903581/xawt97jb550pdq5sxu0y.png" group-title="ALTERNATIVOS 2",URBANA PLAY
+https://joy.nx-pc.edge-apps.net/hls/3dn0g-j9clp-hngk7-ki23g.m3u8
+#EXTINF:0 tvg-id="CIUDAD MAGAZINE.ar" tvg-name="CIUDAD MAGAZINE" CUID="20" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344483/ze80dpksdnhmtrrir0jy.png" group-title="ALTERNATIVOS 2",CIUDAD MAGAZINE
+https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
+#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS HD
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
+#EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="ALTERNATIVOS 2",FOX SPORTS
+https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
+#EXTINF:0 tvg-id="FOX SPORTS 2.ar" tvg-name="FOX SPORTS 2" CUID="23" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344086/ga6vdlikxfa3c8puixeq.png" group-title="ALTERNATIVOS 2",FOX SPORTS 2
+https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8
+#EXTINF:0 tvg-id="FOX SPORTS 3.ar" tvg-name="FOX SPORTS 3" CUID="24" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344107/fdnnmnk6gnmfoggvvh8t.png" group-title="ALTERNATIVOS 2",FOX SPORTS 3
+https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN" CUID="25" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="ALTERNATIVOS 2",ESPN
+https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8
+#EXTINF:0 tvg-id="ESPN 2.ar" tvg-name="ESPN 2" CUID="26" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343621/dvoznks55wyxhidxt5tz.png" group-title="ALTERNATIVOS 2",ESPN 2
+https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8
+#EXTINF:0 tvg-id="ESPN 3.ar" tvg-name="ESPN 3" CUID="27" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343670/ypj5fzsecjbhs6itvldj.png" group-title="ALTERNATIVOS 2",ESPN 3
+https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8
+#EXTINF:0 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" CUID="28" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1708005521/wazxwdf0tycbg0qc6jwt.png" group-title="ALTERNATIVOS 2",ESPN 4
+https://joy.nx-pc.edge-apps.net/hls/ohcfd-666pp-pkifp-28l43.m3u8
+#EXTINF:0 tvg-id="GOLF CHANNEL.ar" tvg-name="GOLF CHANNEL" CUID="29" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345398/pjculxryvg0brhyewhoq.png" group-title="ALTERNATIVOS 2",GOLF CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/3ng17-nl903-o8epk-9kaij.m3u8
+#EXTINF:0 tvg-id="CLARO SPORTS.ar" tvg-name="CLARO SPORTS" CUID="30" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346171/casvrwvzsaou1lrvdvyd.png" group-title="ALTERNATIVOS 2",CLARO SPORTS
+https://joy.nx-pc.edge-apps.net/hls/km95e-pj51p-m2ci4-5nj03.m3u8
+#EXTINF:0 tvg-id="DEPORTV.ar" tvg-name="DEPORTV" CUID="31" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" group-title="ALTERNATIVOS 2",DEPORTV
+https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8
+#EXTINF:0 tvg-id="CABLEVIDEO EVENTOS.ar" tvg-name="CABLEVIDEO EVENTOS" CUID="32" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1747771091/p66yptgchm9w1mp2vlgd.png" group-title="ALTERNATIVOS 2",CABLEVIDEO EVENTOS
+https://joy.nx-pc.edge-apps.net/hls/m8hok-nellb-e6mo6-n858e.m3u8
+#EXTINF:0 tvg-id="TNT SPORTS PREMIUM.ar" tvg-name="TNT SPORTS PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFGKqUAU9_m8xAypVgs44ZuoQCaMoaXAMvLHC0YRY_bD6LLYCTFXLw18eYTN1zV2TkR1P3E4mIPlyYus7nOEkk0ws29Gc2uyQj-X_0-qvWsxa5NAGE7lnCsJMThrgOoBdE930AxpzpXQyHfkr2M3oBvFUvKXvTt-Yo-5uBmbHUTzwKntbgwJhcTrF0nEs/s200/472970723_600071056130905_7686830705336578560_n.png" group-title="ALTERNATIVOS 2",TNT SPORTS PREMIUM
+https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8
+#EXTINF:0 tvg-id="ESPN PREMIUM.ar" tvg-name="ESPN PREMIUM" CUID="32" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAvhv6KpqU-k2oz-q8WYx-4xxhQ-VFb-6v6uE5w9e9xGiLTVqfnvuj_VLFJfhnQU3G6oZrGNupI5rv9WRM-_GSsZpi9zdqIpT2ZHMx0BOP7lev64k0FSzLWOGV1mHY1VmsOXENBihGDWlbO6Jy52LfGALpDEDiLU0NhPZziVvowWf0RvIX0xluoF_M-k/s200/789-removebg-preview.png" group-title="ALTERNATIVOS 2",ESPN PREMIUM
+https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8
+#EXTINF:0 tvg-id="DISNEY CHANNEL.ar" tvg-name="DISNEY CHANNEL" CUID="33" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343539/hbtoaryt4rspl7nuvo5f.png" group-title="ALTERNATIVOS 2",DISNEY CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8
+#EXTINF:0 tvg-id="DISNEY JR.ar" tvg-name="DISNEY JR." CUID="34" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343555/qquu2rgawhx5vewx5k5s.png" group-title="ALTERNATIVOS 2",DISNEY JR.
+https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8
+#EXTINF:0 tvg-id="CARTOON NETWORK.ar" tvg-name="CARTOON NETWORK" CUID="35" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343459/qeyq8c2njqjrpfvzwhmz.png" group-title="ALTERNATIVOS 2",CARTOON NETWORK
+https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8
+#EXTINF:0 tvg-id="TOONCAST.ar" tvg-name="TOONCAST" CUID="36" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345162/dr9opo1wgzz6rjqestvs.png" group-title="ALTERNATIVOS 2",TOONCAST
+https://joy.nx-pc.edge-apps.net/hls/9649e-56dn4-4b1g5-dilf.m3u8
+#EXTINF:0 tvg-id="ZOO MOO.ar" tvg-name="ZOO MOO" CUID="37" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345870/wz2y1iajjlrvbuajnsw9.png" group-title="ALTERNATIVOS 2",ZOO MOO
+https://joy.nx-pc.edge-apps.net/hls/gpn0p-h6fp8-7689p-kkcc6.m3u8
+#EXTINF:0 tvg-id="PAKA PAKA.ar" tvg-name="PAKA PAKA" CUID="38" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344683/o5wmeruzw6cwdozlkb64.png" group-title="ALTERNATIVOS 2",PAKA PAKA
+https://joy.nx-pc.edge-apps.net/hls/fmk71-o60f6-lb4p-jbad9.m3u8
+#EXTINF:0 tvg-id="BABY TV.ar" tvg-name="BABY TV" CUID="39" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343332/k6apxdxseirljmuvoctg.png" group-title="ALTERNATIVOS 2",BABY TV
+https://joy.nx-pc.edge-apps.net/hls/6onej-bja31-d1m6a-99and.m3u8
+#EXTINF:0 tvg-id="CANAL INFANTIL.ar" tvg-name="CANAL INFANTIL" CUID="40" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348314/yvbj7oz3ujktnle6so2a.png" group-title="ALTERNATIVOS 2",CANAL INFANTIL
+https://joy.nx-pc.edge-apps.net/hls/d45pa-2lfp1-e8p5j-3k22i.m3u8
+#EXTINF:0 tvg-id="PLIM PLIM TV.ar" tvg-name="PLIM PLIM TV" CUID="41" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353500/e02amybvvycqtiovtkxy.png" group-title="ALTERNATIVOS 2",PLIM PLIM TV
+https://joy.nx-pc.edge-apps.net/hls/mb6hp-85n73-pedjc-o07ef.m3u8
+#EXTINF:0 tvg-id="FX.ar" tvg-name="FX" CUID="42" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738861342/mxqccbweqij3th5jni3m.png" group-title="ALTERNATIVOS 2",FX
+https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8
+#EXTINF:0 tvg-id="CINEMAX.ar" tvg-name="CINEMAX" CUID="43" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344640/awvuauzeynupv9g4w55w.png" group-title="ALTERNATIVOS 2",CINEMAX
+https://joy.nx-pc.edge-apps.net/hls/al2ac-boi6d-kl95l-3n20j.m3u8
+#EXTINF:0 tvg-id="MULTIPREMIER.ar" tvg-name="MULTIPREMIER" CUID="44" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346044/hzxoskqpdbco2grcfs1k.png" group-title="ALTERNATIVOS 2",MULTIPREMIER
+https://joy.nx-pc.edge-apps.net/hls/k9bpa-nd884-2a06l-640e1.m3u8
+#EXTINF:0 tvg-id="CINECANAL.ar" tvg-name="CINECANAL" CUID="45" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346192/wlqczqrkvqmrr4khdekf.png" group-title="ALTERNATIVOS 2",CINECANAL
+https://joy.nx-pc.edge-apps.net/hls/6bhnd-ee8d5-hegm2-b6l5e.m3u8
+#EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT" CUID="46" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345114/pe7pbo0c5bycumcxxcdf.png" group-title="ALTERNATIVOS 2",TNT
+https://joy.nx-pc.edge-apps.net/hls/3cfmo-i74jf-j0b2a-bm53n.m3u8
+#EXTINF:0 tvg-id="EUROPA EUROPA.ar" tvg-name="EUROPA EUROPA" CUID="47" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1738069963/jyv6t42pjooaxfefm25e.png" group-title="ALTERNATIVOS 2",EUROPA EUROPA
+https://joy.nx-pc.edge-apps.net/hls/caon2-ko5ei-l3gpc-e772c.m3u8
+#EXTINF:0 tvg-id="FILM & ARTS.ar" tvg-name="FILM & ARTS" CUID="48" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346138/os0793nnsdcby18gttcg.png" group-title="ALTERNATIVOS 2",FILM & ARTS
+https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
+#EXTINF:0 tvg-id="GOLDEN.ar" tvg-name="GOLDEN" CUID="49" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="ALTERNATIVOS 2",GOLDEN
+https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
+#EXTINF:0 tvg-id="AMC.ar" tvg-name="AMC" CUID="50" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344432/rpwhd2jsw6f45i468bew.png" group-title="ALTERNATIVOS 2",AMC
+https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
+#EXTINF:0 tvg-id="STAR CHANNEL.ar" tvg-name="STAR CHANNEL" CUID="51" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343928/ta0eesxgcjxhxhikcxyo.png" group-title="ALTERNATIVOS 2",STAR CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8
+#EXTINF:0 tvg-id="WARNER CHANNEL.ar" tvg-name="WARNER CHANNEL" CUID="52" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345322/xagr6s4ajzppkxqk9gna.png" group-title="ALTERNATIVOS 2",WARNER CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/f068d-i2ab-je8pf-3k75a.m3u8
+#EXTINF:0 tvg-id="TNT SERIES.ar" tvg-name="TNT SERIES" CUID="53" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345574/crvpq9vwaupct2wumr9l.png" group-title="ALTERNATIVOS 2",TNT SERIES
+https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
+#EXTINF:0 tvg-id="MULTICINEMA.ar" tvg-name="TNT NOVELAS" CUID="54" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1689266233/wyegs5ojarqf4qonqjp0.png" group-title="ALTERNATIVOS 2",TNT NOVELAS
+https://joy.nx-pc.edge-apps.net/hls/dk7p1-42odm-8n3cb-cnc2l.m3u8
+#EXTINF:0 tvg-id="TNT NOVELAS.ar" tvg-name="TNT NOVELAS" CUID="55" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1689266233/wyegs5ojarqf4qonqjp0.png" group-title="ALTERNATIVOS 2",TNT NOVELAS
+https://joy.nx-pc.edge-apps.net/hls/3g734-9lf8i-cda6m-pm6a2.m3u8
+#EXTINF:0 tvg-id="SPACE.ar" tvg-name="SPACE" CUID="56" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344768/jr9kvm8tcjv7aiqblavz.png" group-title="ALTERNATIVOS 2",SPACE
+https://joy.nx-pc.edge-apps.net/hls/5l99a-88i70-g4mhk-k4ob4.m3u8
+#EXTINF:0 tvg-id="VOLVER.ar" tvg-name="VOLVER" CUID="57" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345294/e2f2jre2m3ydeaevxczs.png" group-title="ALTERNATIVOS 2",VOLVER
+https://joy.nx-pc.edge-apps.net/hls/9c3on-i089p-mnmkk-jpi5f.m3u8
+#EXTINF:0 tvg-id="CINE.AR.ar" tvg-name="CINE.AR" CUID="58" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345516/udplad6zrky9yvhyhat5.png" group-title="ALTERNATIVOS 2",CINE.AR
+https://joy.nx-pc.edge-apps.net/hls/m6l52-i7flc-5bii9-70gkm.m3u8
+#EXTINF:0 tvg-id="TCM.ar" tvg-name="TCM" CUID="59" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345600/btr9auc3hlqghyu7e7z0.png" group-title="ALTERNATIVOS 2",TCM
+https://joy.nx-pc.edge-apps.net/hls/61h62-gfdg8-5eb9c-c3og.m3u8
+#EXTINF:0 tvg-id="STAR TVE.ar" tvg-name="STAR TVE" CUID="60" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346330/dugkog0m3cpan5ct2w2k.png" group-title="ALTERNATIVOS 2",STAR TVE
+https://joy.nx-pc.edge-apps.net/hls/k4jn-k8e9h-i267a-acckf.m3u8
+#EXTINF:0 tvg-id="A3SERIES.ar" tvg-name="A3SERIES" CUID="61" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169146/ztlcxgcuqiquwpljsfut.png" group-title="ALTERNATIVOS 2",A3SERIES
+https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
+#EXTINF:0 tvg-id="A3CINE.ar" tvg-name="A3CINE" CUID="62" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1682169336/gwe0estuudnrotgm0a1t.png" group-title="ALTERNATIVOS 2",A3CINE
+https://joy.nx-pc.edge-apps.net/hls/kpnai-5f8d4-1pmch-5h5oe.m3u8
+#EXTINF:0 tvg-id="LAS ESTRELLAS.ar" tvg-name="LAS ESTRELLAS" CUID="63" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343712/x8gr1lfymel9mphjsilz.png" group-title="ALTERNATIVOS 2",LAS ESTRELLAS
+https://joy.nx-pc.edge-apps.net/hls/7o81a-4egdo-2noga-l5o6k.m3u8
+#EXTINF:0 tvg-id="RCN NOVELAS.ar" tvg-name="RCN NOVELAS" CUID="64" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348415/qg7endigoqpzeq4mgbvu.png" group-title="ALTERNATIVOS 2",RCN NOVELAS
+https://joy.nx-pc.edge-apps.net/hls/d89mh-phk3-5cmmm-343i3.m3u8
+#EXTINF:0 tvg-id="PASIONES.ar" tvg-name="PASIONES" CUID="65" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346766/k7fwhb1tfjjmzjwj0ydu.png" group-title="ALTERNATIVOS 2",PASIONES
+https://joy.nx-pc.edge-apps.net/hls/52eb-m1lik-hb373-d4bn1.m3u8
+#EXTINF:0 tvg-id="NOVELISIMA.ar" tvg-name="NOVELISIMA" CUID="66" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750785888/tbxfsnmbgjbsielt5job.png" group-title="ALTERNATIVOS 2",NOVELISIMA
+https://joy.nx-pc.edge-apps.net/hls/jlg10-a783n-d578n-mo8ch.m3u8
+#EXTINF:0 tvg-id="KANAL D DRAMA.ar" tvg-name="KANAL D DRAMA" CUID="67" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1720111155/uja0cmn8jgkhlnaj0ylf.png" group-title="ALTERNATIVOS 2",KANAL D DRAMA
+https://joy.nx-pc.edge-apps.net/hls/i37hj-60mnd-n2kjo-2bljm.m3u8
+#EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="ALTERNATIVOS 2",HBO
+https://joy.nx-pc.edge-apps.net/hls/89ak-8f1hh-275b9-3ejih.m3u8
+#EXTINF:0 tvg-id="HBO 2.ar" tvg-name="HBO 2" CUID="69" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344172/ytykblekpiypt6ispkcf.png" group-title="ALTERNATIVOS 2",HBO 2
+https://joy.nx-pc.edge-apps.net/hls/gl2pf-fm42m-ik7ec-acg1b.m3u8
+#EXTINF:0 tvg-id="HBO +.ar" tvg-name="HBO +" CUID="70" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344200/cizhn0isnfauczmybgop.png" group-title="ALTERNATIVOS 2",HBO +
+https://joy.nx-pc.edge-apps.net/hls/o4k9f-ola22-20be9-69jo9.m3u8
+#EXTINF:0 tvg-id="HBO POP.ar" tvg-name="HBO POP" CUID="71" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345430/sj8snppqk04loiqjaaqm.png" group-title="ALTERNATIVOS 2",HBO POP
+https://joy.nx-pc.edge-apps.net/hls/le3g2-kjc00-e7d3p-m3aoc.m3u8
+#EXTINF:0 tvg-id="HBO XTREME.ar" tvg-name="HBO XTREME" CUID="72" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344622/fmxc4uqlul9uqc3pcmxh.png" group-title="ALTERNATIVOS 2",HBO XTREME
+https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
+#EXTINF:0 tvg-id="HBO MUNDI.ar" tvg-name="HBO MUNDI" CUID="73" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344600/z0ecxrdo1hm2paiy4vab.png" group-title="ALTERNATIVOS 2",HBO MUNDI
+https://joy.nx-pc.edge-apps.net/hls/c5o8j-78n4c-apc1g-j3ph5.m3u8
+#EXTINF:0 tvg-id="HBO FAMILY.ar" tvg-name="HBO FAMILY" CUID="74" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344187/kzwx3nq6xbfdtbeobib5.png" group-title="ALTERNATIVOS 2",HBO FAMILY
+https://joy.nx-pc.edge-apps.net/hls/mcl11-2ja70-fnhg5-coojh.m3u8
+#EXTINF:0 tvg-id="HBO SIGNATURE.ar" tvg-name="HBO SIGNATURE" CUID="75" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344220/rtvwm504qp58fuhwwrdn.png" group-title="ALTERNATIVOS 2",HBO SIGNATURE
+https://joy.nx-pc.edge-apps.net/hls/89n4a-hpa03-mpaah-1jdi4.m3u8
+#EXTINF:0 tvg-id="CINE PREMIUM.ar" tvg-name="CINE PREMIUM" CUID="76" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="ALTERNATIVOS 2",CINE PREMIUM
+https://joy.nx-pc.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
+#EXTINF:0 tvg-id="CINE FAMILIAR.ar" tvg-name="CINE FAMILIAR" CUID="77" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345713/ikagari0fl7tttbrotfb.png" group-title="ALTERNATIVOS 2",CINE FAMILIAR
+https://joy.nx-pc.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
+#EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="ALTERNATIVOS 2",CINE HISPANO
+https://joy.nx-pc.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
+#EXTINF:0 tvg-id="DHE.ar" tvg-name="DHE" CUID="78" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcDmRkdIMcNM8GEajhM_SxqrX4TR3xWtJA_pApMUNEnVI8qGBvb_rjAUOwmZ3_VAE7VIRMBmxvxrXzj7U6kDU9qRIUCQKeORIxhDElltMI_P0e1dHgBQ8bWI49ah79c78ZJsH5-K4mLZ2-cJWt3mWQ1TfVnkRRIwEELPK8zX0WkZ2qb3bJJnOWbs6ushI/s320/DHE.png" group-title="ALTERNATIVOS 2",DHE
+https://joy.nx-pc.edge-apps.net/hls/la1m9-hcg1p-8hcme-1lk16.m3u8
+#EXTINF:0 tvg-id="HOLA TV.ar" tvg-name="HOLA TV" CUID="79" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345815/asgjcf2jzh98oxnxkqx9.png" group-title="ALTERNATIVOS 2",HOLA TV
+https://joy.nx-pc.edge-apps.net/hls/cl7lf-54530-2egee-p14da.m3u8
+#EXTINF:0 tvg-id="CARAS TV.ar" tvg-name="CARAS TV" CUID="80" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtIazZ8-vJfSsbLwDLCdObeZ1M1-y78lktWOBEA9WBonr5xSMX00soYe2vwGg6TlPBc8Z53Ef43VNxNHZTW-0FwDxcwLCwomnIipVmka4qD0_Xb_VyWJw44jEox3DXcOwi7bbOc9bBvzJDi0bv0OOZYj9xEDbqZdvRXfas_q6V5KhCs_hTGOGoSsk2WXo/s200/CYaZv3N-removebg-preview.png" group-title="ALTERNATIVOS 2",CARAS TV
+https://joy.nx-pc.edge-apps.net/hls/na8aa-7l8ko-4gd7d-p3613.m3u8
+#EXTINF:0 tvg-id="MAS CHIC.ar" tvg-name="MAS CHIC" CUID="81" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346112/bkkh1cckle09ey0yqvyx.png" group-title="ALTERNATIVOS 2",MAS CHIC
+https://joy.nx-pc.edge-apps.net/hls/f9em3-fn7h4-a75fc-c056h.m3u8
+#EXTINF:0 tvg-id="EL GOURMET.ar" tvg-name="EL GOURMET" CUID="82" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343608/ywvhapelbx9i9pv9y9bu.png" group-title="ALTERNATIVOS 2",EL GOURMET
+https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
+#EXTINF:0 tvg-id="DISCOVERY HOME&HEALTH.ar" tvg-name="DISCOVERY HOME&HEALTH" CUID="83" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344394/cq5nr0zp7kdh1mdi2mrv.png" group-title="ALTERNATIVOS 2",DISCOVERY HOME&HEALTH
+https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
+#EXTINF:0 tvg-id="TRAVEL XP.ar" tvg-name="TRAVEL XP" CUID="84" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684347549/lh2ojz3jqohgkhbdmpkf.png" group-title="ALTERNATIVOS 2",TRAVEL XP
+https://joy.nx-pc.edge-apps.net/hls/hp6dm-89cho-6n1l-5f64l.m3u8
+#EXTINF:0 tvg-id="NATGEO.ar" tvg-name="NATGEO" CUID="85" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344660/ljfeibwcia0jp57u8v1a.png" group-title="ALTERNATIVOS 2",NATGEO
+https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8
+#EXTINF:0 tvg-id="LOVE NATURE.ar" tvg-name="LOVE NATURE" CUID="86" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345917/n2qqptz2k27lp759s2it.png" group-title="ALTERNATIVOS 2",LOVE NATURE
+https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
+#EXTINF:0 tvg-id="DISCOVERY TLC.ar" tvg-name="DISCOVERY TLC" CUID="87" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749408442/tgphkhbrgddkeznerscl.png" group-title="ALTERNATIVOS 2",DISCOVERY TLC
+https://joy.nx-pc.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
+#EXTINF:0 tvg-id="GUSTO TV.ar" tvg-name="GUSTO TV" CUID="88" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750688691/xi9rhjpxp1pqiokwfqqd.png" group-title="ALTERNATIVOS 2",GUSTO TV
+https://joy.nx-pc.edge-apps.net/hls/jp51l-235gf-a6d71-e522k.m3u8
+#EXTINF:0 tvg-id="SUN CHANNEL.ar" tvg-name="SUN CHANNEL" CUID="89" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1750353395/zjn2noajhrjd7ggxv31l.webp" group-title="ALTERNATIVOS 2",SUN CHANNEL
+https://joy.nx-pc.edge-apps.net/hls/7oj3g-cdej2-kl131-b7hd8.m3u8
+#EXTINF:0 tvg-id="ENCUENTRO.ar" tvg-name="ENCUENTRO" CUID="90" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346279/zzju24oya4wvydk1rixe.png" group-title="ALTERNATIVOS 2",ENCUENTRO
+https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8
+#EXTINF:0 tvg-id="CANAL A.ar" tvg-name="CANAL A" CUID="91" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348098/nvcumj4q8bkqiryclisr.png" group-title="ALTERNATIVOS 2",CANAL A
+https://joy.nx-pc.edge-apps.net/hls/k0eh2-j12j2-35nn-1dmde.m3u8
+#EXTINF:0 tvg-id="CANAL RURAL.ar" tvg-name="CANAL RURAL" CUID="92" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344744/pqumpg7ubdiyzmozdwsr.png" group-title="ALTERNATIVOS 2",CANAL RURAL
+https://joy.nx-pc.edge-apps.net/hls/465a1-enb61-ad17j-55bp2.m3u8
+#EXTINF:0 tvg-id="CNN EN ESPAÑOL.ar" tvg-name="CNN EN ESPAÑOL" CUID="93" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343477/jpaigp1p0weik0s8red0.png" group-title="ALTERNATIVOS 2",CNN EN ESPAÑOL
+https://joy.nx-pc.edge-apps.net/hls/d0l95-h7jlf-ilii6-4e3g9.m3u8
+#EXTINF:0 tvg-id="EURONEWS.ar" tvg-name="EURONEWS" CUID="94" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345964/f7zdzojarsngu4fqqlsk.png" group-title="ALTERNATIVOS 2",EURONEWS
+https://joy.nx-pc.edge-apps.net/hls/eo5mp-m89lb-e57f0-kpkkd.m3u8
+#EXTINF:0 tvg-id="DW.ar" tvg-name="DW" CUID="95" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345941/g93i18rqzqekt6g2an5x.png" group-title="ALTERNATIVOS 2",DW
+https://joy.nx-pc.edge-apps.net/hls/57gjj-j2867-pfa7f-d52jp.m3u8
+#EXTINF:0 tvg-id="RAI ITALIA.ar" tvg-name="RAI ITALIA" CUID="96" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344717/pcsili7bymriuh3ohuvu.png" group-title="ALTERNATIVOS 2",RAI ITALIA
+https://joy.nx-pc.edge-apps.net/hls/pblci-34e1c-fgf30-h25ib.m3u8
+#EXTINF:0 tvg-id="TVE.ar" tvg-name="TVE" CUID="97" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345221/qa3wlkvpshquf7q4co8a.png" group-title="ALTERNATIVOS 2",TVE
+https://joy.nx-pc.edge-apps.net/hls/bc91i-kj0of-4eh3g-hlfn1.m3u8
+#EXTINF:0 tvg-id="CANAL 24H.ar" tvg-name="CANAL 24H" CUID="98" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684348695/ygs1l09aiaxf4ygejvxl.png" group-title="ALTERNATIVOS 2",CANAL 24H
+https://joy.nx-pc.edge-apps.net/hls/h7m22-llhbf-mkh78-f4eo6.m3u8
+#EXTINF:0 tvg-id="DNEWS.ar" tvg-name="DNEWS" CUID="99" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1737634193/xgs69thn3o5y3d9r9mzr.png" group-title="ALTERNATIVOS 2",DNEWS
+https://joy.nx-pc.edge-apps.net/hls/cp9g2-5ok8b-g99na-o15il.m3u8
+#EXTINF:0 tvg-id="RT EN ESPAÑOL.ar" tvg-name="RT EN ESPAÑOL" CUID="100" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1746530729/fchli6dxupqmekgkhadb.png" group-title="ALTERNATIVOS 2",RT EN ESPAÑOL
+https://joy.nx-pc.edge-apps.net/hls/1pf1o-l8fhp-a55hc-1j09k.m3u8
+#EXTINF:0 tvg-id="CM.ar" tvg-name="CM" CUID="101" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344575/yd4t3x3rbewslfiypwdp.png" group-title="ALTERNATIVOS 2",CM
+https://joy.nx-pc.edge-apps.net/hls/i7gnj-ipp8m-bc68e-ad3hd.m3u8
+#EXTINF:0 tvg-id="HTV.ar" tvg-name="HTV" CUID="102" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346215/v83epbwjwd9o2fspi3ud.png" group-title="ALTERNATIVOS 2",HTV
+https://joy.nx-pc.edge-apps.net/hls/l4b0l-njg9j-4ic97-4c15b.m3u8
+#EXTINF:0 tvg-id="QUIERO MUSICA EN MI IDIOMA.ar" tvg-name="QUIERO MUSICA EN MI IDIOMA" CUID="103" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346240/iva94ooqr6f8kvptmgmr.png" group-title="ALTERNATIVOS 2",QUIERO MUSICA EN MI IDIOMA
+https://joy.nx-pc.edge-apps.net/hls/3la6l-e802j-1ekem-6k9o6.m3u8
