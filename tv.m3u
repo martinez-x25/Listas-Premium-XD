@@ -6,7 +6,7 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
 https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="ALTERNATIVOS 2",TN HD
 http://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" CUID="4" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344457/fcjc3stfsqmhfiwhg3gl.png" group-title="ALTERNATIVOS 2",A24
+#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" CUID="4" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/960px-A24_%282025%29.svg.png" group-title="ALTERNATIVOS 2",A24
 https://joy.nx-pc.edge-apps.net/hls/eh9gc-bail8-o30pk-k1hih.m3u8
 #EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="5" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343205/svtomvm729gbibz9ofsq.png" group-title="ALTERNATIVOS 2",C5N
 https://joy.nx-pc.edge-apps.net/hls/84aje-kf2n1-d1fjp-jd44i.m3u8
@@ -26,7 +26,7 @@ http://cdn-zapster-ros.trapemn.tv:1935/zapster-transco/Canal5Rosario.stream/play
 https://joy.nx-pc.edge-apps.net/hls/8hdof-e4mmh-nbj00-biga5.m3u8
 #EXTINF:0 tvg-id="RTS.ar" tvg-name="ElTresTv.ar" CUID="11" tvg-logo="https://tvlogo.org/argentina/eltres-tv-ar.png" group-title="ALTERNATIVOS 2",El Tres TV
 https://cdn5x.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#EXTINF:0 tvg-id="IP NOTICAS.ar" tvg-name="Argentina 12" CUID="12" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1714690363/e6qrjkrewqzvavedhic1.png" group-title="ALTERNATIVOS 2",AR | 12
+#EXTINF:0 tvg-id="IP NOTICAS.ar" tvg-name="Argentina 12" CUID="12" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Argentina_12_%28Ar12%29_logo.png/960px-Argentina_12_%28Ar12%29_logo.png" group-title="ALTERNATIVOS 2",AR | 12
 https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
 #EXTINF:0 tvg-id="TELEFE SANTA FE.ar" tvg-name="TELEFE SANTA FE" CUID="13" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345039/k7wex8tz5j0sazltjb1n.png" group-title="ALTERNATIVOS 2",TELEFE SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/367dd-bmd9o-85ha8-f468n.m3u8
@@ -36,15 +36,15 @@ https://joy.nx-pc.edge-apps.net/hls/e5df7-k5p3m-2m2nf-jnd7m.m3u8
 https://joy.nx-pc.edge-apps.net/hls/6d4cm-ihgob-f3k27-31j97.m3u8
 #EXTINF:0 tvg-id="EL NUEVE INTERIOR.ar" tvg-name="EL NUEVE INTERIOR" CUID="16" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343409/r6vbn4n6dfsem4thbh7g.png" group-title="ALTERNATIVOS 2",EL NUEVE INTERIOR
 https://joy.nx-pc.edge-apps.net/hls/nlpbp-d0k2m-gn1k-35cj1.m3u8
-#EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343316/lbquokaz3dmb2gtsynxh.png" group-title="ALTERNATIVOS 2",CANAL 7
-https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+#EXTINF:0 tvg-id="TV PUBLICA.ar" tvg-name="TV PUBLICA" CUID="17" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png/960px-Nuevo_logo_de_la_Televisi%C3%B3n_P%C3%BAblica_%28en_color_y_sin_fondo%29.png" group-title="ALTERNATIVOS 2",CANAL 7
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/tvpublica.stream/chunks.m3u8
 #EXTINF:0 tvg-id="NET TV.ar" tvg-name="NET TV" CUID="18" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345761/lrd1rhajbdywgjzhslkb.png" group-title="ALTERNATIVOS 2",NET TV
 https://joy.nx-pc.edge-apps.net/hls/lb0ol-ailc9-5k80-j4fj6.m3u8
 #EXTINF:0 tvg-id="URBANA PLAY.ar" tvg-name="URBANA PLAY" CUID="19" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1744903581/xawt97jb550pdq5sxu0y.png" group-title="ALTERNATIVOS 2",URBANA PLAY
 https://joy.nx-pc.edge-apps.net/hls/3dn0g-j9clp-hngk7-ki23g.m3u8
-#EXTINF:0 tvg-id="CIUDAD MAGAZINE.ar" tvg-name="CIUDAD MAGAZINE" CUID="20" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344483/ze80dpksdnhmtrrir0jy.png" group-title="ALTERNATIVOS 2",CIUDAD MAGAZINE
+#EXTINF:0 tvg-id="CIUDAD MAGAZINE.ar" tvg-name="CIUDAD MAGAZINE" CUID="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="ALTERNATIVOS 2",CIUDAD MAGAZINE
 https://joy.nx-pc.edge-apps.net/hls/6i9pl-i9pbb-nlbod-db19m.m3u8
-#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS HD
+#EXTINF:0 tvg-id="TYC SPORTS.ar" tvg-name="TYC SPORTS" CUID="21" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345246/bkxx3r33ra53vmbwc1qp.png" group-title="ALTERNATIVOS 2",TYC SPORTS
 https://live-04-11-tyc-app-web.vodgc.net/tyc24/index.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS.ar" tvg-name="FOX SPORTS" CUID="22" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344065/kq9nkzim7pr4yk6cgjja.png" group-title="ALTERNATIVOS 2",FOX SPORTS
 https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8
